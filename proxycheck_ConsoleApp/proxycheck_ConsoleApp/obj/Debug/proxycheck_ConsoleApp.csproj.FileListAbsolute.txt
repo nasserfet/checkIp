@@ -1,0 +1,12 @@
+D:\project\proxycheck_ConsoleApp\proxycheck_ConsoleApp\bin\Debug\proxycheck_ConsoleApp.exe.config
+D:\project\proxycheck_ConsoleApp\proxycheck_ConsoleApp\bin\Debug\proxycheck_ConsoleApp.exe
+D:\project\proxycheck_ConsoleApp\proxycheck_ConsoleApp\bin\Debug\proxycheck_ConsoleApp.pdb
+D:\project\proxycheck_ConsoleApp\proxycheck_ConsoleApp\obj\Debug\proxycheck_ConsoleApp.csprojResolveAssemblyReference.cache
+D:\project\proxycheck_ConsoleApp\proxycheck_ConsoleApp\obj\Debug\proxycheck_ConsoleApp.exe
+D:\project\proxycheck_ConsoleApp\proxycheck_ConsoleApp\obj\Debug\proxycheck_ConsoleApp.pdb
+D:\project\source\proxycheck_ConsoleApp\proxycheck_ConsoleApp\bin\Debug\proxycheck_ConsoleApp.exe.config
+D:\project\source\proxycheck_ConsoleApp\proxycheck_ConsoleApp\bin\Debug\proxycheck_ConsoleApp.exe
+D:\project\source\proxycheck_ConsoleApp\proxycheck_ConsoleApp\bin\Debug\proxycheck_ConsoleApp.pdb
+D:\project\source\proxycheck_ConsoleApp\proxycheck_ConsoleApp\obj\Debug\proxycheck_ConsoleApp.csprojResolveAssemblyReference.cache
+D:\project\source\proxycheck_ConsoleApp\proxycheck_ConsoleApp\obj\Debug\proxycheck_ConsoleApp.exe
+D:\project\source\proxycheck_ConsoleApp\proxycheck_ConsoleApp\obj\Debug\proxycheck_ConsoleApp.pdb
